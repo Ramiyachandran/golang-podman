@@ -1,4 +1,4 @@
-name: Multiple Version  Go
+name: Go Multiple version Test
 
 on:
   push:
